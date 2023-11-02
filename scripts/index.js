@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'February 16, 2024', // change the date for countdown
+  birthdate: 'February 16, 2020', // change the date for countdown
   name: 'Farhan Adnan Masum', //change the name here 
   by: 'Dev. Farhan Adnan Masum'
 };
